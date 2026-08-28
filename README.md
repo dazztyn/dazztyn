@@ -69,9 +69,9 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **[Datademy](https://github.com/dazztyn/Datademy)** | Extrae información de formularios de Google y automatiza la interpretación de datos estadísticos y la generación de informes. | NestJS, React + Vite, React Native, MongoDB, Redis, JWT, Google Cloud, Google Workspace APIs |
-| **[ProyectateUCN](https://github.com/dazztyn/ProyectateUCN)** | Generador de proyecciones semestrales de un alumno según su avance en la malla curricular hasta el semestre de egreso. | NestJS, PostgreSQL, React |
-| **[Taller IoT — Sensores en tiempo real](https://github.com/dazztyn/Taller5BDNR)** | Lee datos de un sensor ESP32 y los muestra en tiempo real. | NestJS, React + Vite, Redis, MongoDB |
+| **[Datademy](https://github.com/dazztyn/Datademy)** | Extrae información de formularios de Google y automatiza la interpretación de datos estadísticos y la generación de informes. | NestJS, React + Vite, React Native, MongoDB, Redis, JWT, Google Cloud, Google Workspace APIs. |
+| **[ProyectateUCN](https://github.com/dazztyn/ProyectateUCN)** | Generador de proyecciones semestrales de un alumno según su avance en la malla curricular hasta el semestre de egreso. | NestJS, PostgreSQL, React. |
+| **[Noporolos Store](https://github.com/FrankyTheCatt/Ingeso-Ecomerce)** | Simulación de E-commerce de productos para escolares o universitarios con menú interactivo para clientes y panel de administrador. | Next.js, Supabase. |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
