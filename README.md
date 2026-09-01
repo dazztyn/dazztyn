@@ -12,7 +12,7 @@
 - 🎲 Como pasatiempos, disfruto de los videojuegos, escuchar música y ver series o anime.
 
 
-## 🛠️ Stack técnológico
+## Stack técnológico
 
 **Lenguajes**
 
@@ -45,14 +45,14 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 
-## 🍃 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## 🎯 Quiero aprender
+## Quiero aprender
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -65,7 +65,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
@@ -75,7 +75,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📫 Contacto
+## Contacto
 
 <!-- Agrega aquí tus badges: por ahora LinkedIn y, más adelante, tu portafolio -->
 <p>
