@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Vicente Ruiz 👋</h1>
+<h1 align="center">¡Hola! Soy Vicente 👋</h1>
 
 <img align="right" src="assets/gif1.gif" width="330">
 
