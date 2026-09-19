@@ -70,7 +70,7 @@
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | **[Datademy](https://github.com/dazztyn/Datademy)** | Extrae información de formularios de Google y automatiza la interpretación de datos estadísticos y la generación de informes. | NestJS, React + Vite, React Native, MongoDB, Redis, Google Workspace APIs. |
-| **[ProyectateUCN](https://github.com/dazztyn/ProyectateUCN)** | Generador de proyecciones semestrales de un alumno según su avance en la malla curricular hasta el semestre de egreso. | NestJS, PostgreSQL, React. |
+| **[ProyectateUCN](https://github.com/dazztyn/ProyectateUCN)** | Generador de proyecciones semestrales de un alumno según su avance en la malla curricular hasta el semestre de egreso. | NestJS, PostgreSQL, React + Vite, TypeORM. |
 | **[Noporolos Store](https://github.com/FrankyTheCatt/Ingeso-Ecomerce)** | Simulación de E-commerce enfocado en productos escolares y/o universitarios con menú interactivo para clientes y panel de administrador. | Next.js, Supabase. |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
